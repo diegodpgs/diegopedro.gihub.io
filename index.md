@@ -40,6 +40,69 @@
     <a href="site">Site</a></li>
 </ul>
 
+<h3>Disciplinas ministradas em 2021</h3>
+       
+<ul class="topics">
+  <li><b>Lógica de programação e estrutura de dados</b> 
+    <a href="site">Site</a></li>
+  <li><b>Programação orientada a objetos</b> 
+    <a href="site">Site</a></li>
+  <li><b>Montagem e Manutenção de Computadores.</b> 
+    <a href="site">Site</a></li>
+  <li><b>Análise de Sistemas</b> 
+    <a href="site">Site</a></li>
+</ul>
+       
+       
+<h3>Disciplinas ministradas em 2020</h3>
+       
+<ul class="topics">
+  <li><b>Lógica de programação e estrutura de dados</b> 
+    <a href="site">Site</a></li>
+  <li><b>Programação orientada a objetos</b> 
+    <a href="site">Site</a></li>
+  <li><b>Montagem e Manutenção de Computadores.</b> 
+    <a href="site">Site</a></li>
+  <li><b>Análise de Sistemas</b> 
+    <a href="site">Site</a></li>
+   <li><b>Informática básica</b> 
+    <a href="site">Site</a></li>
+   <li><b>Sistemas Operacionais</b> 
+    <a href="site">Site</a></li>
+</ul>
+       
+<h3>Disciplinas ministradas em 2019</h3>
+       
+<ul class="topics">
+  <li><b>Estrutura de dados</b> 
+    <a href="site">Site</a></li>
+  <li><b>Projetos de Sistemas</b> 
+    <a href="site">Site</a></li>
+  <li><b>Engenharia de Software</b> 
+    <a href="site">Site</a></li>
+  <li><b>Sistemas Operacionais</b> 
+    <a href="site">Site</a></li>
+</ul>
+
+<h3>Disciplinas ministradas em 2018</h3>
+       
+<ul class="topics">
+  <li><b>Estrutura de dados</b> 
+    <a href="site">Site</a></li>
+  <li><b>Engenharia de Software</b> 
+    <a href="site">Site</a></li>
+  <li><b>Sistemas Operacionais</b> 
+    <a href="site">Site</a></li>
+</ul>
+
+<h3>Disciplinas ministradas em 2017</h3>
+       
+<ul class="topics">
+  <li><b>Estrutura de dados</b> 
+    <a href="site">Site</a> Técnico Integrado em Informática no IFSUL</li>
+  <li><b>Informática Básica</b> 
+    <a href="site">Site</a> Proeja no IFSUL</li>
+</ul>
 
 <hr />
 
