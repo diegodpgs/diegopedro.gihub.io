@@ -12,7 +12,7 @@
 
 <body>
 
-<div class="photo"><img src="divers/photo.jpg" alt="Guillaume Melquiond" /></div>
+<div class="photo"><img src="imagens/diego.jpg" alt="Diego Pedro" /></div>
 
 <p class="language"><a href="index.html.fr">Version française</a></p>
 
