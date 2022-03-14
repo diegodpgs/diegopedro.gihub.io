@@ -14,19 +14,15 @@
 
 <div class="photo"><img src="imagens/diego.jpg" alt="Diego Pedro" /></div>
 
-<p class="language"><a href="index.html.fr">Version française</a></p>
+<p class="language"><a href="index.html.en">English Version</a></p>
 
-<h1>Guillaume Melquiond</h1>
+<h1>Diego Pedro</h1>
 
-<p>I am an <a href="https://www.inria.fr/fr/centre-inria-saclay-ile-de-france">Inria</a> researcher
-in the <a href="http://toccata.lri.fr/">Toccata</a> team
-from the <a href="https://lmf.cnrs.fr/">LMF</a> laboratory
-(<a href="https://www.universite-paris-saclay.fr/">Université Paris Saclay</a>).</p>
+<p>Sou professor no<a href="http://www2.ifam.edu.br/">Instituto Federal de Ciência e Tecnologia do Amazonas - IFAM</a> lotado na cidade de <a href="https://amazonasatual.com.br/wp-content/uploads/2019/05/FOTO.13.jpg">São Gabriel da Cachoeira</a> 
 
-<h2>Research interests</h2>
+<h2>Área de pesquisa</h2>
 
-<p>My work lies at the intersection between the domains of computer
-arithmetic and formal proof.</p>
+<p>Meu trabalho reside na interseção entre Psicologia, Linguística e Computação</p>
 
 <ul class="topics">
   <li><b>Automated proof of numerical properties.</b> I am interested in
