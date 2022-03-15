@@ -102,7 +102,7 @@
 
 <hr />
 
-<div class="update">Last update: June 16th, 2021.</div>
+<div class="update">Última atualização: 15 de Junho, 2022.</div>
 </body>
 </html>
 
