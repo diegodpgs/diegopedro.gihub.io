@@ -7,8 +7,8 @@
 
 <body>
 
-<div class="photo"><img src="imagens/diego.jpeg" alt="Diego Pedro" width="280" 
-     height="400" />/></div>
+<div class="photo"><img src="imagens/diego.jpeg" alt="Diego Pedro" width="252" 
+     height="360" />/></div>
 
 <p class="language"><a href="index.html.en">English Version</a></p>
 
