@@ -12,7 +12,8 @@
 
 <body>
 
-<div class="photo"><img src="imagens/diego.jpeg" alt="Diego Pedro" /></div>
+<div class="photo"><img src="imagens/diego.jpeg" alt="Diego Pedro" width="400" 
+     height="500" />/></div>
 
 <p class="language"><a href="index.html.en">English Version</a></p>
 
