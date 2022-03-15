@@ -4,6 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
+  
 
 <body>
 
@@ -103,6 +104,4 @@
 <hr />
 
 <div class="update">Última atualização: 15 de Junho, 2022.</div>
-</body>
-</html>
 
