@@ -103,7 +103,21 @@
 
 <h2>Extensão</h2>
   
-<h3>Projeto olímpico</h3> Treinamento de alunos para a olimpíada Brasileira de informática.
+<h3>Projeto olímpico</h3> 
+  Treinamento de alunos do ensino médio para a olimpíada Brasileira de informática. Com os seguintes resultados obtidos até o momento
+  
+  <ul class="topics">
+  <li><b>2018</b> 
+    <a href="site">Melhor resultado de uma escola de nível médio do Rio Grande do sul com 7 alunos classificados para a final nacional</a>
+    <a href="site">Programação Nível Senior: Carlos Fabiano Renner - Honra ao Mérito </a>
+    </li>
+  <li><b>2019</b> 
+    <a href="site">Melhor resultado de uma escola de nível médio do Rio Grande do sul com 4 alunos classificados para a final nacional</a>
+    </li>
+   <li><b>2021</b> 
+    <a href="site">Segundo melhor resultado de um campus do IFAM do interior </a>
+    </li>
+</ul>
   
   
 <hr/>
