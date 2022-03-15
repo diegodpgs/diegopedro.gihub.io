@@ -5,9 +5,6 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <title>Guillaume Melquiond's page</title>
   <link rel="stylesheet" type="text/css" href="style.css" />
-  <script type="text/javascript" src="jquery-1.9.1.min.js"></script>
-  <script type="text/javascript" src="dynlist.js"></script>
-  <script type="text/javascript">dynlist('see more', 'see less');</script>
 </head>
 
 <body>
