@@ -101,7 +101,18 @@
     <a href="site">Site</a> Proeja no IFSUL</li>
 </ul>
 
-<hr />
+<h2>Extensão</h2>
+  
+<h3>Projeto olímpico</h3> Treinamento de alunos para a olimpíada Brasileira de informática.
+  
+  <ul class="topics">
+  <li><b>Resultados obtidos</b> 
+    <a href="site">Site</a> Técnico Integrado em Informática no IFSUL</li>
+  <li><b>Informática Básica</b> 
+    <a href="site">Site</a> Proeja no IFSUL</li>
+</ul>
+  
+<hr/>
 
 <div class="update">Última atualização: 15 de Junho, 2022.</div>
 
