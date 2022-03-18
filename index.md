@@ -25,29 +25,29 @@
 <h3>Disciplinas ministradas em 2022</h3>
        
 <ul class="topics">
-  <li><b>Projeto integrador</b> 
-    <a href="site">Site</a></li>
+  <li><b>Projeto integrador</b>  
+  Técnico integrado em informática,IFAM</li>  
   <li><b>Programação orientada a objetos</b> 
-    <a href="site">Site</a></li>
-  <li><b>Montagem e Manutenção de Computadores.</b> 
-    <a href="site">Site</a></li>
-  <li><b>Introdução a Sistemas de Informação</b> 
-    <a href="site">Site</a></li>
+  Técnico integrado em informática,IFAM</li>   
+  <li><b>Montagem e Manutenção de Computadores.</b>  
+  Técnico integrado em informática,IFAM</li>  
+  <li><b>Introdução a Sistemas de Informação</b>  
+  Técnico integrado em secretariado escolar,IFAM</li>  
   <li><b>Tópicos especiais em informática</b> 
-    <a href="site">Site</a></li>
+  Técnico subsequente em administração,IFAM</li>  
 </ul>
 
 <h3>Disciplinas ministradas em 2021</h3>
        
 <ul class="topics">
-  <li><b>Lógica de programação e estrutura de dados</b> 
-    <a href="site">Site</a></li>
+  <li><b>Lógica de programação e estrutura de dados</b>  
+  Técnico integrado em informática,IFAM</li>  
   <li><b>Programação orientada a objetos</b> 
-    <a href="site">Site</a></li>
-  <li><b>Montagem e Manutenção de Computadores.</b> 
-    <a href="site">Site</a></li>
+  Técnico integrado em informática,IFAM</li>   
+  <li><b>Montagem e Manutenção de Computadores.</b>  
+  Técnico integrado em informática,IFAM</li>  
   <li><b>Análise de Sistemas</b> 
-    <a href="site">Site</a></li>
+  Técnico subsequente em informática,IFAM</li>   
 </ul>
        
        
@@ -55,50 +55,54 @@
        
 <ul class="topics">
   <li><b>Lógica de programação e estrutura de dados</b> 
-    <a href="site">Site</a></li>
+  Técnico integrado em informática,IFAM</li>  
   <li><b>Programação orientada a objetos</b> 
-    <a href="site">Site</a></li>
-  <li><b>Montagem e Manutenção de Computadores.</b> 
-    <a href="site">Site</a></li>
-  <li><b>Análise de Sistemas</b> 
-    <a href="site">Site</a></li>
-   <li><b>Informática básica</b> 
-    <a href="site">Site</a></li>
-   <li><b>Sistemas Operacionais</b> 
-    <a href="site">Site</a></li>
+  Técnico integrado e subsequente em informática,IFAM</li>  
+  <li><b>Montagem e Manutenção de Computadores.</b>
+  Técnico integrado e subsequente em informática,IFAM</li>  
+  <li><b>Análise de Sistemas</b>
+  Técnico Subsequente em informática,IFAM</li>  
+  <li><b>Informática básica</b>
+  Técnico Subsequente em Secretariado escolar,IFAM</li>  
+  <li><b>Sistemas Operacionais</b>
+  Técnico Subsequente em informática,IFAM</li> 
 </ul>
        
 <h3>Disciplinas ministradas em 2019</h3>
        
 <ul class="topics">
   <li><b>Estrutura de dados</b> 
-    <a href="site">Site</a></li>
-  <li><b>Projetos de Sistemas</b> 
-    <a href="site">Site</a></li>
-  <li><b>Engenharia de Software</b> 
-    <a href="site">Site</a></li>
-  <li><b>Sistemas Operacionais</b> 
-    <a href="site">Site</a></li>
+  Técnico integrado em informática,IFSUL</li>
+  <li><b>Informática Básicas</b> 
+  Técnico integrado em plástico e Eventos,IFSUL</li>
+  <li><b>Projetos de Sistemas</b>
+  Técnico integrado em informática,IFSUL</li> 
+  <li><b>Sistemas Operacionais</b>
+  Técnico integrado em informática,IFSUL</li> 
 </ul>
 
 <h3>Disciplinas ministradas em 2018</h3>
        
 <ul class="topics">
-  <li><b>Estrutura de dados</b> 
-    <a href="site">Site</a></li>
-  <li><b>Engenharia de Software</b> 
-    <a href="site">Site</a></li>
-  <li><b>Sistemas Operacionais</b> 
-    <a href="site">Site</a></li>
+  <li><b>Estrutura de dados</b>
+  Técnico integrado em informática,IFSUL</li> 
+  <li><b>Linguagem de Programação III</b> 
+  Técnico integrado em informática,IFSUL</li>
+  <li><b>Engenharia de Software</b>
+  Técnico integrado em informática,IFSUL</li>
+  <li><b>Projeto de Sistemas</b> 
+  Técnico integrado em informática,IFSUL</li>
+  <li><b>Sistemas Operacionais</b>
+  Técnico integrado em informática,IFSUL</li> 
 </ul>
 
 <h3>Disciplinas ministradas em 2017</h3>
        
 <ul class="topics">
-  <li><b>Estrutura de dados</b> 
-    <a href="site">Site</a> Técnico Integrado em Informática no IFSUL</li>
+  <li><b>Estrutura de dados</b>
+  Técnico integrado em informática,IFSUL</li>
   <li><b>Informática Básica</b> 
-    <a href="site">Site</a> Proeja no IFSUL</li>
+  Proeja,IFSUL</li>
 </ul>
 
 <h2>Extensão</h2>
