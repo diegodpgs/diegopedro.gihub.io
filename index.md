@@ -15,7 +15,7 @@
 
 <h1>Diego Pedro</h1>
 
-<p>Sou professor no <a href="http://www2.ifam.edu.br/">Instituto Federal de Ciência e Tecnologia do Amazonas - IFAM</a> lotado na cidade de <a href="https://amazonasatual.com.br/wp-content/uploads/2019/05/FOTO.13.jpg">São Gabriel da Cachoeira</a> 
+<p>Sou professor no <a href="http://www2.ifam.edu.br/">Instituto Federal de Ciência e Tecnologia do Amazonas - IFAM</a> lotado na cidade de <a href="https://amazonasatual.com.br/wp-content/uploads/2019/05/FOTO.13.jpg">São Gabriel da Cachoeira em processo de remoção para o campus de Parintins</a>. Atualmente curso mestrado em Computação na<a href="https://www.icmc.usp.br/pos-graduacao/ppgccmc"> USP - São Carlos </a> sob orientação do Professor <a href="https://sites.google.com/view/taspardo/">Dr. Thiago pardo </a>
 
 <h2>Área de pesquisa</h2>
 
@@ -120,6 +120,11 @@
     </li>
    <li><b>2021</b> 
     <a href="site">Segundo melhor resultado de um campus do IFAM do interior </a>
+    </li>
+     <li><b>2022</b> 
+    <a href="site">Melhor resultado da história do IFAM no nível P1 a qual o aluno Eduardo Fabrício obteve o 106 lugar no Brasil </a>
+    <a href="site">Único estudante do IFAM classificado para a final nacional nível P1 </a>
+    <a href="site">Melhor resultado do IFAM considerando todos os níveis </a>
     </li>
 </ul>
   
